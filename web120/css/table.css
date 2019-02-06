@@ -1,0 +1,39 @@
+h1{ 
+font: 18px Arial, sans-serif; 
+} 
+
+table td{ 
+font: 14px Arial, sans-serif; 
+width: 350px; 
+background-color:aquamarine; 
+border: 0px; 
+padding: 5px; 
+color: #333; 
+line-height: 18px; 
+text-align:left; 
+} 
+
+ul li{ 
+padding: 0; 
+} 
+
+table th{ 
+font: 14px Arial, sans-serif; 
+    color: black;
+background-color:lightblue;
+} 
+
+.table1{ 
+margin: 20px 20px 20px 20px;  
+background-color:aquamarine; 
+} 
+
+.table2{ 
+margin: 0px 40px 0px 40px; 
+display:inherit;
+} 
+
+footer{ 
+text-align: center; 
+font: 12px Arial, sans-serif; 
+} 
